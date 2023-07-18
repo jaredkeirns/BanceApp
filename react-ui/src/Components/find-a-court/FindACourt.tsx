@@ -142,7 +142,7 @@ class FindACourt extends React.Component<IFindACourtProps, IFindACourtState> {
 				onFilter: (value: any, record: ICourt) => record.surface === value,
       },
       {
-        title: 'Lightbulbs',
+        title: 'Lightbulbz',
         dataIndex: 'lights',
         key: 'lights',
         width: '20%',
