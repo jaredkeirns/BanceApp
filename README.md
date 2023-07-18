@@ -1,4 +1,4 @@
-# BanceApp
+# BanceApp 2.0
 An app for Lance and Ben to practice code
 
 # Development Workflow
